@@ -14,9 +14,9 @@ At HCA-NET, we believe that programming is about more than just writing code. It
 Thank you for taking the time to learn about Holy C Assembly. We are always looking for new opportunities to collaborate with other programmers, so if you have a project you'd like to work on, please don't hesitate to reach out to us. We would love to hear from you!
 
 # HCA-NET: Company Contacts
-Headquarters address: 153 Main Street, Toronto, ON M5V 2M5
-Phone number: +1 (416) 555-1234
-Fax number: +1 (416) 555-5678
-Mailing address: PO Box 567, Toronto, ON M5S 2V1
-Physical office location: 456 Bay Street, Suite 800, Toronto, ON M5J 2T4
-Emergency contact number: +1 (416) 555-9012
+* Headquarters address: 153 Main Street, Toronto, ON M5V 2M5
+* Phone number: +1 (416) 555-1234
+* Fax number: +1 (416) 555-5678
+* Mailing address: PO Box 567, Toronto, ON M5S 2V1
+* Physical office location: 456 Bay Street, Suite 800, Toronto, ON M5J 2T4
+* Emergency contact number: +1 (416) 555-9012
